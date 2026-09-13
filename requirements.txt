@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+pycocotools
+peft
+accelerate
+open-clip-torch
+timm
+opencv-python
+scipy
+cython
+matplotlib
