@@ -32,6 +32,7 @@ skip_update:
 end_small:
     RET            ; Return with smallest element in A
 ```[cite: 6]
+```
 
 ---
 
